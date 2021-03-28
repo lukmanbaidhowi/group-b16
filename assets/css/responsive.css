@@ -17,7 +17,9 @@
 
 
 /* Sabilal */
-
+.card{
+    width: 40%;
+}
 
 
 
@@ -48,7 +50,18 @@
 
 
 /* Sabilal */
+.card-container{
+    width: 100%; 
+}
 
+.heading{
+    padding:20px;
+    font-size: 20px;
+}
+
+.card{
+    width: 80%;
+}
 
 
 
