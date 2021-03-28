@@ -34,15 +34,77 @@ a {
 
 
 /* Lukman */
+.dapur-ngebul{
+  display: flex;
+}
+.bg-youtube{
+  float: left;
+  width: 60%;
+  height: auto;
+  margin-bottom: -500px;
+  /* margin-top: -100px; */
+}
 
+.img-bg-youtube{
+  width: 85%;
+}
 
+.video-youtube{
+  width:50%;
+  flex:auto;
+}
 
+.iframe-youtube{
+  width: 80%;
+  height: 100%;
+  border-radius: 20px;
+}
+
+.text-ngebul{
+  width:50%;
+  flex:auto;
+  text-align: right;
+}
+
+.text-ngebul h1{
+  font-size: 48px;
+  color: black;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  margin:20px 0px 5px;
+}
+
+.text-ngebul h3{
+  font-size: 24px;
+  color:#ED473E;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  margin:5px 0px;
+}
+
+.text-ngebul p{
+  font-size: 14px;
+  color:#6a6a6a;
+  margin:5px 0px 20px;
+}
+
+.bg-text-ngebul{
+  float: Right;
+  width: 30%;
+  height: auto;
+  margin-top: -200px;
+  margin-bottom: -400px;
+}
+
+.img-bg-ngebul{
+  width: 100%;
+}
 
 /* Sabilal */
 
 .card-container{
   width: 78%;
-  margin: 50px auto;
+  margin: 300px auto 50px;
 }
 
 .heading{
