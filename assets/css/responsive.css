@@ -6,7 +6,48 @@
 
 
 /* Riswam */
-
+.container {
+    max-width:1000px;
+    width: 100%;
+    padding: 0 5px;
+    margin: 0 auto;
+  }
+.judul{
+    text-align: center;
+    color: #32325d;
+  }
+  .mid {
+    text-align: center;
+    color: #32325d;
+  }
+  .labelinfo {
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight:300; 
+    color: #32325d;
+  }
+  .content{
+    width:100%;
+    height:236px;
+    display:flex;
+    padding-left:5%; 
+    padding-right:5%;
+  }
+  .content-list{
+    width:25%;
+    display: inline;
+    align-items: center;
+    justify-content: center; 
+    margin: 0 5px;
+  }
+  .content-img{
+    width:100px;
+    height:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+/* =========================================================== */
 
 
 
@@ -35,11 +76,49 @@
 
 
 
-
 /* Riswam */
-
-
-
+.judul{
+    text-align: center;
+    color: #ED473E;
+  }
+.container {
+    max-width:670px;
+    /* width: 100%; */
+    padding: 0 30px;
+    margin: 0 auto;
+  }
+.mid {
+    text-align: center;
+    color: #32325d;
+  }
+  .labelinfo {
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight:300; 
+    color: #32325d;
+  }
+  .content{
+    width:100%;
+    height:236px;
+    padding-left:10%; 
+    padding-right:10%;
+    display: table-row;
+  }
+  .content-list{
+    display: table-column;
+    width:100%;
+    display: inline;
+    align-items: center;
+    justify-content: center; 
+    margin: 0 20px;
+  }
+  .content-img{
+    width:100px;
+    height:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 
 /* Lukman */
