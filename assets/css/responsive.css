@@ -58,7 +58,9 @@
 
 
 /* Sabilal */
-
+.card{
+    width: 40%;
+}
 
 
 
@@ -122,12 +124,69 @@
 
 
 /* Lukman */
+.dapur-ngebul{
+  flex-direction:column;
+}
+
+.bg-youtube{
+  float: left;
+  width: 100%;
+  height: auto;
+  margin-bottom: -200px;
+  margin-left: -200;
+  /* margin-top: -100px; */
+}
+
+.video-youtube{
+  margin:0 auto;
+  width: 90%;
+  margin-bottom: 60px;
+}
+
+.text-ngebul{
+  margin:0 auto;
+  width: 90%;
+}
+
+.bg-text-ngebul{
+  float: Right;
+  width: 40%;
+  height: auto;
+  margin-top: -100px;
+  margin-bottom: -100px;
+  /* margin-top: -100px; */
+}
+
+.img-bg-ngebul{
+  width: 100%;
+}
+
+.text-ngebul h1{
+  font-size: 24px;
+}
+
+.text-ngebul h3{
+  font-size: 18px;
+}
+
 
 
 
 
 /* Sabilal */
+.card-container{
+    width: 100%; 
+    margin: 100px auto 50px;
+}
 
+.heading{
+    padding:20px;
+    font-size: 20px;
+}
+
+.card{
+    width: 80%;
+}
 
 
 
