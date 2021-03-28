@@ -31,7 +31,7 @@ a {
 .judul{
   text-align: center;
   color: #32325d;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 .mid {
   text-align: center;
@@ -41,6 +41,9 @@ a {
   text-align: center;
   font-size: 0.9rem;
   font-weight:300; 
+  color: #32325d;
+}
+.labelinfo p{
   color: #32325d;
 }
 .content{
@@ -55,7 +58,8 @@ a {
   display: inline;
   align-items: center;
   justify-content: center; 
-  margin: 0 20px;
+  padding: 0 20px;
+  margin-bottom: 60px;
 }
 .content-img{
   width:100px;
@@ -96,6 +100,7 @@ a {
   width:50%;
   flex:auto;
   text-align: right;
+  padding-left:10%;
 }
 
 .text-ngebul h1{
