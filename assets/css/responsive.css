@@ -115,6 +115,10 @@
 /* Fery */
 
 
+/* footer */
+footer {
+  padding-left: 10%;
+}
 
   
 }
@@ -248,6 +252,10 @@
 /* Fery */
 
 
-
+/* footer */
+footer {
+  text-align: center;
+  padding-left: 0;
+}
 
 }
