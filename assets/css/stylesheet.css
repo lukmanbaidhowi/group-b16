@@ -269,8 +269,13 @@ a {
 
 /* footer */
 
-footer img {
+.footer-img{
   width: 125px;
+  height: auto;
+}
+
+footer img {
+  width: 100%;
 }
 
 footer p {
